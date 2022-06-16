@@ -1,0 +1,13 @@
+enter the USD amount: 200 
+Euro : 174.00 
+
+currency value compared to dollaer is 234.000000enter the USD amount: 230 
+Euro : 200.10 
+
+currency value compared to dollaer is 3.250000
+
+
+enter the USD amount: 230 
+Euro : 200.10 
+
+highest currency value compared to dollaer is 3.250000
